@@ -49,7 +49,7 @@ We offer **powerful hosting plans** for your bot deployment. Choose the best pla
 ## 🚀 Deploy on Any Platform  
 
 
-##DEPLOY TUTORIAL## [CLICK](https://youtu.be/JtK7_x6RDw8)
+# DEPLOY TUTORIAL [CLICK](https://youtu.be/JtK7_x6RDw8)
 
 # ⚡ DEVIL CRASH V5 BUG BOT ⚡  
 
